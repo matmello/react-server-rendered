@@ -10,6 +10,8 @@ coverage
 build
 
 # misc
-.DS_Store
 .env
 npm-debug.log
+
+# mac system file
+.DS_Store
